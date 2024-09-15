@@ -1,0 +1,186 @@
+<!DOCTYPE Networks>
+<networks>
+ <network mcc="412" operator="Roshan" number="40404" country="Afghanistan" mnc="20"/>
+ <network mcc="722" operator="Movistar" number="89338" country="Argentina" mnc="010"/>
+ <network mcc="722" operator="Personal" number="89338" country="Argentina" mnc="010"/>
+ <network mcc="722" operator="Nextel" number="89338" country="Argentina" mnc="010"/>
+ <network mcc="363" operator="Digicel" number="176" country="Aruba" mnc="02"/>
+ <network mcc="344" operator="Digicel" number="176" country="Antigua" mnc="050"/>
+ <network mcc="505" operator="Telstra" number="0198089488" country="Australia" mnc="01"/>
+ <network mcc="426" operator="VIVA" number="88000" country="Bahrain" mnc="04"/>
+ <network mcc="426" operator="Zain" number="98555" country="Bahrain" mnc="02"/>
+ <network mcc="470" operator="Citycell" number="9594" country="Bangladesh" mnc="05"/>
+ <network mcc="257" operator="life" number="40404" country="Belarus" mnc="04"/>
+ <network mcc="350" operator="Digicel" number="176" country="Bermuda" mnc="050"/>
+ <network mcc="724" operator="TIM" number="40404" country="Brasil" mnc="02"/>
+ <network mcc="724" operator="TIM" number="40404" country="Brasil" mnc="03"/>
+ <network mcc="724" operator="TIM" number="40404" country="Brasil" mnc="04"/>
+ <network mcc="724" operator="Nextel" number="40404" country="Brasil" mnc="00"/>
+ <network mcc="724" operator="Nextel" number="40404" country="Brasil" mnc="39"/>
+ <network mcc="402" operator="B-mobile" number="40404" country="Bhutan" mnc="11"/>
+ <network mcc="736" operator="Tigo" number="40404" country="Bolivia" mnc="03"/>
+ <network mcc="302" operator="" number="21212" country="Canada" mnc=""/>
+ <network mcc="732" operator="Tigo" number="40404" country="Colombia" mnc="103"/>
+ <network mcc="732" operator="Tigo" number="40404" country="Colombia" mnc="111"/>
+ <network mcc="456" operator="Cellcard" number="40404" country="Cambodia" mnc="05"/>
+ <network mcc="456" operator="Smart Mobile" number="40404" country="Cambodia" mnc="06"/>
+ <network mcc="624" operator="MTN" number="8711" country="Cameroon" mnc="01"/>
+ <network mcc="362" operator="Digicel" number="176" country="Curacao" mnc="69"/>
+ <network mcc="238" operator="Telenor" number="40404" country="Denmark" mnc="02"/>
+ <network mcc="238" operator="Telenor" number="40404" country="Denmark" mnc="77"/>
+ <network mcc="602" operator="Vodafone" number="4040" country="Egypt" mnc="02"/>
+ <network mcc="602" operator="Mobinil" number="2222" country="Egypt" mnc="01"/>
+ <network mcc="706" operator="Digicel" number="40404" country="El Salvador" mnc="02"/>
+ <network mcc="706" operator="Tigo" number="40404" country="El Salvador" mnc="03"/>
+ <network mcc="542" operator="Digicel" number="40404" country="Fiji" mnc="02"/>
+ <network mcc="542" operator="Vodafone" number="40404" country="Fiji" mnc="01"/>
+ <network mcc="282" operator="Beeline" number="40404" country="Georgia" mnc="04"/>
+ <network mcc="352" operator="Digicel" number="176" country="Grenada" mnc="030"/>
+ <network mcc="704" operator="Tigo" number="40404" country="Guatemala" mnc="02"/>
+ <network mcc="738" operator="Digicel" number="1443" country="Guyana" mnc="01"/>
+ <network mcc="372" operator="Digicel" number="40404" country="Haiti" mnc="02"/>
+ <network mcc="708" operator="Digicel" number="40404" country="Honduras" mnc="40"/>
+ <network mcc="404" operator="Reliance" number="53000" country="India" mnc="09"/>
+ <network mcc="404" operator="Reliance" number="53000" country="India" mnc="36"/>
+ <network mcc="404" operator="Reliance" number="53000" country="India" mnc="52"/>
+ <network mcc="404" operator="Reliance" number="53000" country="India" mnc="67"/>
+ <network mcc="404" operator="Reliance" number="53000" country="India" mnc="83"/>
+ <network mcc="404" operator="Reliance" number="53000" country="India" mnc="85"/>
+ <network mcc="404" operator="Bharti_Airtel" number="53000" country="India" mnc="02"/>
+ <network mcc="404" operator="Bharti_Airtel" number="53000" country="India" mnc="03"/>
+ <network mcc="404" operator="Bharti_Airtel" number="53000" country="India" mnc="10"/>
+ <network mcc="404" operator="Bharti_Airtel" number="53000" country="India" mnc="31"/>
+ <network mcc="404" operator="Bharti_Airtel" number="53000" country="India" mnc="45"/>
+ <network mcc="404" operator="Bharti_Airtel" number="53000" country="India" mnc="49"/>
+ <network mcc="404" operator="Bharti_Airtel" number="53000" country="India" mnc="90"/>
+ <network mcc="404" operator="Bharti_Airtel" number="53000" country="India" mnc="92"/>
+ <network mcc="404" operator="Bharti_Airtel" number="53000" country="India" mnc="93"/>
+ <network mcc="404" operator="Bharti_Airtel" number="53000" country="India" mnc="96"/>
+ <network mcc="405" operator="Reliance" number="53000" country="India" mnc="01"/>
+ <network mcc="405" operator="Reliance" number="53000" country="India" mnc="03"/>
+ <network mcc="405" operator="Reliance" number="53000" country="India" mnc="04"/>
+ <network mcc="405" operator="Reliance" number="53000" country="India" mnc="05"/>
+ <network mcc="405" operator="Reliance" number="53000" country="India" mnc="10"/>
+ <network mcc="405" operator="Reliance" number="53000" country="India" mnc="13"/>
+ <network mcc="405" operator="Tata" number="53000" country="India" mnc="025"/>
+ <network mcc="405" operator="Tata" number="53000" country="India" mnc="026"/>
+ <network mcc="405" operator="Tata" number="53000" country="India" mnc="027"/>
+ <network mcc="405" operator="Tata" number="53000" country="India" mnc="029"/>
+ <network mcc="405" operator="Tata" number="53000" country="India" mnc="030"/>
+ <network mcc="405" operator="Tata" number="53000" country="India" mnc="031"/>
+ <network mcc="405" operator="Tata" number="53000" country="India" mnc="032"/>
+ <network mcc="405" operator="Tata" number="53000" country="India" mnc="033"/>
+ <network mcc="405" operator="Tata" number="53000" country="India" mnc="034"/>
+ <network mcc="405" operator="Tata" number="53000" country="India" mnc="035"/>
+ <network mcc="405" operator="Tata" number="53000" country="India" mnc="036"/>
+ <network mcc="405" operator="Tata" number="53000" country="India" mnc="037"/>
+ <network mcc="405" operator="Tata" number="53000" country="India" mnc="038"/>
+ <network mcc="405" operator="Tata" number="53000" country="India" mnc="039"/>
+ <network mcc="405" operator="Tata" number="53000" country="India" mnc="041"/>
+ <network mcc="405" operator="Tata" number="53000" country="India" mnc="042"/>
+ <network mcc="405" operator="Tata" number="53000" country="India" mnc="043"/>
+ <network mcc="405" operator="Tata" number="53000" country="India" mnc="044"/>
+ <network mcc="405" operator="Tata" number="53000" country="India" mnc="045"/>
+ <network mcc="405" operator="Tata" number="53000" country="India" mnc="046"/>
+ <network mcc="405" operator="Tata" number="53000" country="India" mnc="047"/>
+ <network mcc="405" operator="Bharti_Airtel" number="53000" country="India" mnc="51"/>
+ <network mcc="405" operator="Bharti_Airtel" number="53000" country="India" mnc="52"/>
+ <network mcc="405" operator="Bharti_Airtel" number="53000" country="India" mnc="54"/>
+ <network mcc="405" operator="Bharti_Airtel" number="53000" country="India" mnc="56"/>
+ <network mcc="510" operator="AXIS" number="89887" country="Indonesia" mnc="08"/>
+ <network mcc="510" operator="3" number="89887" country="Indonesia" mnc="89"/>
+ <network mcc="510" operator="Telkomsel," number="89887" country="Indonesia" mnc="10"/>
+ <network mcc="510" operator="XL Axiata" number="89887" country="Indonesia" mnc="11"/>
+ <network mcc="510" operator="TelkomFlexi" number="89887" country="Indonesia" mnc="07"/>
+ <network mcc="510" operator="Indosat" number="89887" country="Indonesia" mnc="01"/>
+ <network mcc="418" operator="Asiacell" number="1432" country="Iraq" mnc="05"/>
+ <network mcc="418" operator="Zain" number="71117" country="Iraq" mnc="20"/>
+ <network mcc="418" operator="Zain" number="71117" country="Iraq" mnc="30"/>
+ <network mcc="272" operator="O2" number="51210" country="Ireland" mnc="02"/>
+ <network mcc="272" operator="Vodafone" number="51210" country="Ireland" mnc="01"/>
+ <network mcc="272" operator="Meteor Mobile" number="51210" country="Ireland" mnc="03"/>
+ <network mcc="" operator="" number="Manx" country="?????? Isle of Man" mnc="89887"/>
+ <network mcc="222" operator="Vodafone" number="+3424486444" country="Italy" mnc="10"/>
+ <network mcc="222" operator="Wind" number="4880804" country="Italy" mnc="88"/>
+ <network mcc="338" operator="Digicel" number="176" country="Jamaica" mnc="050"/>
+ <network mcc="416" operator="Zain" number="90903" country="Jordan" mnc="01"/>
+ <network mcc="401" operator="Beeline" number="4040" country="Kazakhstan" mnc="01"/>
+ <network mcc="401" operator="Kcell/Activ" number="4040" country="Kazakhstan" mnc="02"/>
+ <network mcc="639" operator="Airtel" number="40404" country="Kenya" mnc="03"/>
+ <network mcc="639" operator="Safaricom" number="89888" country="Kenya" mnc="02"/>
+ <network mcc="419" operator="Zain" number="89887" country="Kuwait" mnc="02"/>
+ <network mcc="450" operator="LG U+" number="#1234" country="Korea" mnc="06"/>
+ <network mcc="437" operator="Megacom" number="4040" country="Kyrgyzstan" mnc="05"/>
+ <network mcc="437" operator="Beeline" number="4040" country="Kyrgyzstan" mnc="01"/>
+ <network mcc="294" operator="VIP" number="40404" country="Macedonia" mnc="03"/>
+ <network mcc="502" operator="Maxis" number="28933" country="Malaysia" mnc="12"/>
+ <network mcc="502" operator="Tune Talk" number="28933" country="Malaysia" mnc="150"/>
+ <network mcc="502" operator="DiGi" number="28933" country="Malaysia" mnc="16"/>
+ <network mcc="472" operator="Wataniya" number="4040" country="Maldives" mnc="02"/>
+ <network mcc="334" operator="Telcel" number="6464" country="Mexico" mnc="20"/>
+ <network mcc="536" operator="Digicel" number="40404" country="Nauru" mnc="02"/>
+ <network mcc="530" operator="Vodafone" number="8987" country="New Zealand" mnc="01"/>
+ <network mcc="530" operator="Telecom_NZ" number="8987" country="New Zealand" mnc="00"/>
+ <network mcc="530" operator="Telecom_NZ" number="8987" country="New Zealand" mnc="02"/>
+ <network mcc="710" operator="Movistar" number="89887" country="Nicaragua" mnc="30"/>
+ <network mcc="621" operator="MTN" number="40404" country="Nigeria" mnc="30"/>
+ <network mcc="621" operator="Glo_Mobile" number="20644" country="Nigeria" mnc="50"/>
+ <network mcc="410" operator="Mobilink" number="40404" country="Pakistan" mnc="01"/>
+ <network mcc="410" operator="Zong" number="40404" country="Pakistan" mnc="04"/>
+ <network mcc="410" operator="Ufone" number="40404" country="Pakistan" mnc="03"/>
+ <network mcc="410" operator="Telenor" number="40404" country="Pakistan" mnc="06"/>
+ <network mcc="425" operator="Wataniya" number="40404" country="Palestinian Territories" mnc="06"/>
+ <network mcc="425" operator="Jawwal" number="37373" country="Palestinian Territories" mnc="05"/>
+ <network mcc="714" operator="Digicel" number="3010" country="Panama" mnc="04"/>
+ <network mcc="537" operator="Digicel" number="40404" country="Papua New Guinea" mnc="03"/>
+ <network mcc="744" operator="Personal" number="40404" country="Paraguay" mnc="05"/>
+ <network mcc="226" operator="Cosmote" number="89338" country="Romania" mnc="03"/>
+ <network mcc="226" operator="Cosmote" number="89338" country="Romania" mnc="04"/>
+ <network mcc="226" operator="Cosmote" number="89338" country="Romania" mnc="06"/>
+ <network mcc="226" operator="Vodafone" number="89338" country="Romania" mnc="01"/>
+ <network mcc="250" operator="Beeline" number="8080" country="Russia" mnc="28"/>
+ <network mcc="250" operator="Beeline" number="8080" country="Russia" mnc="99"/>
+ <network mcc="635" operator="MTN" number="3434" country="Rwanda" mnc="10"/>
+ <network mcc="420" operator="STC" number="840404" country="Saudi Arabia" mnc="01"/>
+ <network mcc="420" operator="Zain" number="710001" country="Saudi Arabia" mnc="04"/>
+ <network mcc="420" operator="Mobily" number="606040" country="Saudi Arabia" mnc="03"/>
+ <network mcc="220" operator="Vip mobile" number="40404" country="Serbia" mnc="05"/>
+ <network mcc="220" operator="mt" number="40404" country="Serbia" mnc="03"/>
+ <network mcc="220" operator="Telenor" number="40404" country="Serbia" mnc="01"/>
+ <network mcc="413" operator="Dialog" number="40404" country="Sri Lanka" mnc="02"/>
+ <network mcc="413" operator="Telecom Mobitel" number="40404" country="Sri Lanka" mnc="01"/>
+ <network mcc="413" operator="Etisalat Lanka" number="40404" country="Sri Lanka" mnc="03"/>
+ <network mcc="358" operator="Digicel" number="176" country="St. Lucia" mnc="050"/>
+ <network mcc="360" operator="Digicel" number="176" country="St. Vincent" mnc="070"/>
+ <network mcc="356" operator="Digicel" number="176" country="St. Kitts" mnc="050"/>
+ <network mcc="634" operator="Zain" number="40404" country="Sudan" mnc="01"/>
+ <network mcc="240" operator="3" number="71017" country="Sweden" mnc="02"/>
+ <network mcc="539" operator="Digicel" number="40404" country="Tonga" mnc="88"/>
+ <network mcc="374" operator="Digicel" number="40404" country="Trinidad and Tobago" mnc="130"/>
+ <network mcc="286" operator="Vodafone" number="2444" country="Turkey" mnc="02"/>
+ <network mcc="641" operator="MTN" number="179" country="Uganda" mnc="10"/>
+ <network mcc="235" operator="Vodafone" number="86444" country="UK" mnc="15"/>
+ <network mcc="234" operator="Orange" number="86444" country="UK" mnc="33"/>
+ <network mcc="234" operator="Orange" number="86444" country="UK" mnc="34"/>
+ <network mcc="234" operator="O2" number="86444" country="UK" mnc="02"/>
+ <network mcc="234" operator="O2" number="86444" country="UK" mnc="10"/>
+ <network mcc="234" operator="O2" number="86444" country="UK" mnc="11"/>
+ <network mcc="255" operator="life" number="40404" country="Ukraine" mnc="06"/>
+ <network mcc="748" operator="Antel" number="40404" country="Uruguay" mnc="00"/>
+ <network mcc="748" operator="Antel" number="40404" country="Uruguay" mnc="01"/>
+ <network mcc="434" operator="Beeline" number="89338" country="Uzbekistan" mnc="04"/>
+ <network mcc="434" operator="Ucell" number="89338" country="Uzbekistan" mnc="05"/>
+ <network mcc="734" operator="Movistar" number="89338" country="Venezuela" mnc="04"/>
+ <network mcc="421" operator="MTV" number="7070" country="Yemen" mnc="02"/>
+ <network mcc="310" operator="Unknown" number="40404" country="US" mnc="XXX"/>
+ <network mcc="311" operator="Unknown" number="40404" country="US" mnc="XXX"/>
+ <network mcc="312" operator="Unknown" number="40404" country="US" mnc="XXX"/>
+ <network mcc="313" operator="Unknown" number="40404" country="US" mnc="XXX"/>
+ <network mcc="314" operator="Unknown" number="40404" country="US" mnc="XXX"/>
+ <network mcc="315" operator="Unknown" number="40404" country="US" mnc="XXX"/>
+ <network mcc="316" operator="Unknown" number="40404" country="US" mnc="XXX"/>
+ <network mcc="234" operator="Unknown" number="+447624800379" country="UK" mnc="XXX"/>
+ <network mcc="235" operator="Unknown" number="+447624800379" country="UK" mnc="XXX"/>
+ <network mcc="262" operator="Unknown" number="+4915705000021" country="Germany" mnc="XXX"/>
+ <network mcc="244" operator="Unknown" number="+3584573950042" country="Finland" mnc="XXX"/>
+</networks>

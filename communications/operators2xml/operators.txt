@@ -1,0 +1,167 @@
+Afghanistan: 412:20:40404 :Roshan:
+Argentina: 722:010 :89338 :Movistar:
+Argentina: 722:010 :89338 :Personal:
+Argentina: 722:010 :89338 :Nextel: 
+Aruba: 363:02 :176 :Digicel:
+Antigua:344:050 :176 :Digicel:
+Australia: 505:01:0198089488 :Telstra:
+
+Bahrain: 426:04:88000 :VIVA:
+Bahrain: 426:02:98555 :Zain :
+Bangladesh: 470:05:9594:Citycell :
+Belarus: 257:04:40404 :life :
+Bermuda: 350:050:176 :Digicel :
+Brasil: 724:02:40404 :TIM:
+Brasil: 724:03:40404 :TIM:
+Brasil: 724:04:40404 :TIM:
+Brasil: 724:00:40404 :Nextel:
+Brasil: 724:39:40404 :Nextel:
+Bhutan: 402:11:40404 :B-mobile:
+Bolivia: 736:03:40404 :Tigo:
+
+Canada: 302: :21212
+Colombia: 732:103:40404 :Tigo:
+Colombia: 732:111:40404 :Tigo:
+Cambodia: 456:05:40404 :Cellcard:
+Cambodia: 456:06:40404 :Smart Mobile:
+Cameroon: 624:01:8711:MTN:
+Curacao: 362:69:176 :Digicel:
+
+Denmark: 238:02:40404 :Telenor:
+Denmark: 238:77:40404 :Telenor:
+
+Egypt: 602:02:4040 :Vodafone:
+Egypt: 602:01:2222 :Mobinil:
+El Salvador: 706:02:40404 :Digicel:
+El Salvador: 706:03:40404 :Tigo :
+
+Fiji: 542:02:40404 :Digicel:
+Fiji: 542:01:40404 :Vodafone:
+
+Georgia: 282:04:40404 :Beeline:
+Grenada: 352:030:176 :Digicel:
+Guatemala: 704:02:40404 :Tigo:
+Guyana: 738:01:1443 :Digicel:
+
+Haiti: 372:02:40404 :Digicel:
+Honduras: 708:40:40404 :Digicel:
+
+
+India: 404:09 36 52 67 83 85: 53000 :Reliance:
+India: 404:02 03 10 31 45 49 90 92 93 96:53000 :Bharti_Airtel:
+
+India: 405:01 03 04 05 10 13:53000 :Reliance:
+India: 405:025 026 027 029 030 031 032 033 034 035 036 037 038 039 041 042 043 044 045 046 047:53000 :Tata:
+India: 405:51 52 54 56:53000 :Bharti_Airtel:
+
+Indonesia:510:08 :89887 :AXIS:
+Indonesia:510:89:89887 :3:
+Indonesia:510:10:89887 :Telkomsel, :
+Indonesia:510:11 :89887 :XL Axiata:
+Indonesia:510:07:89887 :TelkomFlexi:
+Indonesia:510:01:89887 :Indosat:
+Iraq: 418:05:1432 :Asiacell:
+Iraq: 418:20 30:71117 :Zain:
+Ireland: 272:02: 51210 :O2:
+Ireland: 272:01:51210 :Vodafone:
+Ireland: 272:03:51210 :Meteor Mobile :
+
+?????? Isle of Man: :89887 :Manx :
+Italy: 222:10:+3424486444 :Vodafone :
+Italy: 222:88:4880804 :Wind :
+
+Jamaica: 338:050:176 :Digicel :
+Jordan: 416:01:90903 :Zain:
+
+Kazakhstan: 401:01:4040 :Beeline:
+Kazakhstan: 401:02:4040 :Kcell/Activ: 
+Kenya: 639:03:40404 :Airtel :
+Kenya: 639:02:89888 :Safaricom :
+Kuwait: 419:02:89887 :Zain :
+Korea: 450:06:#1234 :LG U+ :
+Kyrgyzstan: 437:05:4040 :Megacom:
+Kyrgyzstan: 437:01:4040 :Beeline:
+
+Macedonia: 294:03:40404 :VIP:
+Malaysia: 502:12:28933 :Maxis:
+Malaysia: 502:150:28933 :Tune Talk:
+Malaysia: 502:16:28933 :DiGi:
+Maldives: 472:02:4040 :Wataniya :
+Mexico: 334:20:6464 :Telcel:
+
+Nauru: 536:02:40404 :Digicel :
+New Zealand: 530:01:8987 :Vodafone:
+New Zealand: 530:00 02:8987 :Telecom_NZ:
+Nicaragua: 710:30:89887 :Movistar:
+Nigeria: 621:30:40404 :MTN :
+Nigeria: 621:50:20644 :Glo_Mobile :
+
+
+Pakistan: 410:01:40404 :Mobilink:
+Pakistan: 410:04:40404 :Zong:
+Pakistan: 410:03:40404 :Ufone:
+Pakistan: 410:06:40404 :Telenor :
+Palestinian Territories: 425:06:40404 :Wataniya :
+Palestinian Territories: 425:05: 37373 :Jawwal :
+Panama:714:04:3010 :Digicel :
+Papua New Guinea: 537:03:40404 :Digicel :
+Paraguay: 744:05:40404 :Personal:
+
+Romania: 226:03 04 06:89338 :Cosmote :
+Romania: 226:01:89338 :Vodafone:
+Russia: 250:28 99:8080 :Beeline :
+Rwanda: 635:10:3434 :MTN :
+
+Saudi Arabia: 420:01:840404 :STC :
+Saudi Arabia: 420:04:710001 :Zain :
+Saudi Arabia: 420:03:606040 :Mobily :
+
+Serbia: 220:05:40404 :Vip mobile:
+Serbia: 220:03:40404 :mt:s:
+Serbia: 220:01:40404 :Telenor:
+
+Sri Lanka: 413:02:40404 :Dialog:
+Sri Lanka: 413:01:40404 :Telecom Mobitel:
+Sri Lanka: 413:03:40404 :Etisalat Lanka :
+
+St. Lucia: 358:050:176 :Digicel :
+St. Vincent: 360:070:176 :Digicel :
+St. Kitts: 356:050:176 :Digicel :
+Sudan: 634:01:40404 :Zain :
+Sweden: 240:02:71017:3 :
+
+Tonga: 539:88:40404 :Digicel :
+Trinidad and Tobago:374:130:40404 :Digicel :
+Turkey: 286:02:2444 :Vodafone :
+
+Uganda: 641:10:179 :MTN :
+UK: 235:15:86444 :Vodafone:
+UK: 234:33 34:86444 :Orange:
+UK: 234:02 10 11: 86444 :O2 :
+
+Ukraine: 255:06:40404 :life:
+
+Uruguay:748:00 01:40404 :Antel:
+
+Uzbekistan: 434:04:89338 :Beeline:
+Uzbekistan: 434:05:89338 :Ucell :
+
+Venezuela: 734:04:89338 :Movistar:
+
+Yemen:421:02:7070 :MTV: 
+
+US: 310:XXX:40404:Unknown
+US: 311:XXX:40404:Unknown
+US: 312:XXX:40404:Unknown
+US: 313:XXX:40404:Unknown
+US: 314:XXX:40404:Unknown
+US: 315:XXX:40404:Unknown
+US: 316:XXX:40404:Unknown
+
+UK: 234:XXX:+447624800379:Unknown
+UK: 235:XXX:+447624800379:Unknown
+
+Germany:262:XXX:+4915705000021:Unknown
+Finland:244:XXX:+3584573950042:Unknown
+
+

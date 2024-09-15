@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lm:lmx xmlns:lm="http://www.nokia.com/schemas/location/landmarks/1/0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.nokia.com/schemas/location/landmarks/1/0/ lmx.xsd">
+    <lm:landmarkCollection>
+        <lm:landmark>
+            <lm:name>Chichen Itza</lm:name>
+            <lm:description>Chichen Itza was a large pre-Columbian city built by the Maya civilization. The archaeological site is located in the municipality of Tinum, in the Mexican state of Yucatan. Chichen Itza was one of the largest Maya cities and it was likely to have been one of the mythical great cities, or Tollans, referred to in later Mesoamerican literature.The city may have had the most diverse population in the Maya world, a factor that could have contributed to the variety of architectural styles at the site. Chichen Itza is one of the most visited archaeological sites in Mexico; an estimated 1.2 million tourists visit the ruins every year.</lm:description>
+            <lm:coordinates>
+                <lm:latitude>20.6829000</lm:latitude>
+                <lm:longitude>-88.5686500</lm:longitude>
+            </lm:coordinates>
+            <lm:addressInfo>
+                <lm:country>Mexico</lm:country>
+            </lm:addressInfo>
+        </lm:landmark>
+        <lm:landmark>
+            <lm:name>Christ the Redeemer</lm:name>
+            <lm:description>Christ the Redeemer is a statue of Jesus Christ in Rio de Janeiro, Brazil; considered the largest Art Deco statue in the world and the 5th largest statue of Jesus in the world. It is 39.6 metres tall, including its 9.5 metres pedestal, and 30 metres wide. It weighs 635 tonnes, and is located at the peak of the 700-metre Corcovado mountain in the Tijuca Forest National Park overlooking the city. A symbol of Brazilian Christianity, the statue has become an icon for Rio de Janeiro and Brazil. It was constructed between 1922 and 1931.</lm:description>
+            <lm:coordinates>
+                <lm:latitude>-22.9516670</lm:latitude>
+                <lm:longitude>-43.2108330</lm:longitude>
+            </lm:coordinates>
+            <lm:addressInfo>
+                <lm:country>Brazil</lm:country>
+            </lm:addressInfo>
+        </lm:landmark>
+        <lm:landmark>
+            <lm:name>Colosseum</lm:name>
+            <lm:description>The Colosseum is an elliptical amphitheatre in the centre of the city of Rome, Italy, the largest ever built in the Roman Empire. It is considered one of the greatest works of Roman architecture and Roman engineering. Its construction started in 72 AD under the emperor Vespasian and was completed in 80 AD under Titus, with further modifications being made during Domitian's reign (81–96). Capable of seating 50,000 spectators, the Colosseum was used for gladiatorial contests and public spectacles such as mock sea battles, animal hunts, executions, re-enactments of famous battles, and dramas based on Classical mythology. It is one of Rome's most popular tourist attractions.</lm:description>
+            <lm:coordinates>
+                <lm:latitude>41.8901690</lm:latitude>
+                <lm:longitude>12.4922690</lm:longitude>
+            </lm:coordinates>
+            <lm:addressInfo>
+                <lm:country>Italy</lm:country>
+            </lm:addressInfo>
+        </lm:landmark>
+        <lm:landmark>
+            <lm:name>Great Wall of China</lm:name>
+            <lm:description>The Great Wall of China is a series of fortifications made of stone, brick, tamped earth, wood, and other materials, generally built along an east-to-west line across the historical northern borders of China in part to protect the Chinese Empire or its prototypical states against intrusions by various nomadic groups or military incursions by various warlike peoples or forces. The majority of the existing wall was reconstructed during the Ming Dynasty. The most comprehensive archaeological survey has concluded that all the walls measure 8,851.8 km.</lm:description>
+            <lm:coordinates>
+                <lm:latitude>40.3554990</lm:latitude>
+                <lm:longitude>116.0083920</lm:longitude>
+            </lm:coordinates>
+            <lm:addressInfo>
+                <lm:country>China</lm:country>
+            </lm:addressInfo>
+        </lm:landmark>
+        <lm:landmark>
+            <lm:name>Machu Picchu</lm:name>
+            <lm:description>Machu Picchu is a pre-Columbian 15th-century Inca site located 2,430 metres above sea level. Machu Picchu is located in the Cusco Region of Peru, South America. Most archaeologists believe that Machu Picchu was built as an estate for the Inca emperor Pachacuti (1438–1472). Often referred to as the Lost City of the Incas, it is perhaps the most familiar icon of the Inca World. Machu Picchu was declared UNESCO World Heritage Site in 1983.</lm:description>
+            <lm:coordinates>
+                <lm:latitude>-13.1630560</lm:latitude>
+                <lm:longitude>-72.5455560</lm:longitude>
+            </lm:coordinates>
+            <lm:addressInfo>
+                <lm:country>Peru</lm:country>
+            </lm:addressInfo>
+        </lm:landmark>
+        <lm:landmark>
+            <lm:name>Taj Mahal</lm:name>
+            <lm:description>The Taj Mahal is a white Marble mausoleum located in Agra, India. It was built by Mughal emperor Shah Jahan in memory of his third wife, Mumtaz Mahal. The Taj Mahal is widely recognized as the jewel of Muslim art in India and one of the universally admired masterpieces of the world's heritage. Taj Mahal is the finest example of Mughal architecture, a style that combines elements from Persian, Turkish and Indian architectural styles. In 1983, the Taj Mahal became a UNESCO World Heritage Site.</lm:description>
+            <lm:coordinates>
+                <lm:latitude>27.174799</lm:latitude>
+                <lm:longitude>78.042111</lm:longitude>
+            </lm:coordinates>
+            <lm:addressInfo>
+                <lm:country>India</lm:country>
+            </lm:addressInfo>
+        </lm:landmark>
+        <lm:landmark>
+            <lm:name>Petra</lm:name>
+            <lm:description>Petra is a historical and archaeological city in the Jordanian governorate of Ma'an that is famous for its rock cut architecture and water conduit system. Established sometime around the 6th century BC as the capital city of the Nabataeans, it is a symbol of Jordan as well as its most visited tourist attraction. It lies on the slope of Mount Hor. Petra has been a UNESCO World Heritage Site since 1985.</lm:description>
+            <lm:coordinates>
+                <lm:latitude>30.328611</lm:latitude>
+                <lm:longitude>35.441944</lm:longitude>
+            </lm:coordinates>
+            <lm:addressInfo>
+                <lm:country>Jordan</lm:country>
+            </lm:addressInfo>
+        </lm:landmark>
+        <lm:landmark>
+            <lm:name>Great Pyramid of Giza</lm:name>
+            <lm:description>The Great Pyramid of Giza is the oldest and largest of the three pyramids in the Giza Necropolis bordering what is now El Giza, Egypt. It is the oldest of the Seven Wonders of the Ancient World, and the only one to remain largely intact. Egyptologists believe that the pyramid was built as a tomb for fourth dynasty Egyptian Pharaoh Khufu over an approximately 20 year period concluding around 2560 BC. Initially at 146.5 metres, the Great Pyramid was the tallest man-made structure in the world for over 3,800 years.</lm:description>
+            <lm:coordinates>
+                <lm:latitude>29.979175</lm:latitude>
+                <lm:longitude>31.134358</lm:longitude>
+            </lm:coordinates>
+            <lm:addressInfo>
+                <lm:country>Egypt</lm:country>
+            </lm:addressInfo>
+        </lm:landmark>
+        <lm:landmark>
+            <lm:name>Hanging Gardens of Babylon</lm:name>
+            <lm:description>The Hanging Gardens of Babylon were considered to be the only one of the Wonders that may have been purely legendary. They were purportedly built in the ancient city-state of Babylon, near present-day Al Hillah, Babil province, in Iraq. The gardens were attributed to the Neo-Babylonian king Nebuchadnezzar II, who ruled between 605 and 562 BC. He is reported to have constructed the gardens to please his homesick wife, Amytis of Media, who longed for the plants of her homeland. The gardens were said to have been destroyed by several earthquakes after the 2nd century BC.</lm:description>
+            <lm:coordinates>
+                <lm:latitude>32.5355</lm:latitude>
+                <lm:longitude>44.4275</lm:longitude>
+            </lm:coordinates>
+            <lm:addressInfo>
+                <lm:country>Iraq</lm:country>
+            </lm:addressInfo>
+        </lm:landmark>
+        <lm:landmark>
+            <lm:name>Statue of Zeus at Olympia</lm:name>
+            <lm:description>The Statue of Zeus at Olympia was made by the Greek sculptor Phidias, circa 432 BC on the site where it was erected in the Temple of Zeus, Olympia, Greece. The seated statue, some 12 meters tall, occupied half of the width of the aisle of the temple built to house it. The Zeus was a chryselephantine sculpture, made of ivory and gold-plated bronze.</lm:description>
+            <lm:coordinates>
+                <lm:latitude>37.637861</lm:latitude>
+                <lm:longitude>21.63</lm:longitude>
+            </lm:coordinates>
+            <lm:addressInfo>
+                <lm:country>Greece</lm:country>
+            </lm:addressInfo>
+        </lm:landmark>
+        <lm:landmark>
+            <lm:name>Temple of Artemis at Ephesus</lm:name>
+            <lm:description>The Temple of Artemis was a Greek temple dedicated to a goddess Greeks identified as Artemis. It was located in Ephesus (near the modern town of Selcuk in present-day Turkey), and was completely rebuilt three times before its eventual destruction in 401. Only foundations and sculptural fragments of the latest of the temples at the site remain.</lm:description>
+            <lm:coordinates>
+                <lm:latitude>37.949722</lm:latitude>
+                <lm:longitude>27.363889</lm:longitude>
+            </lm:coordinates>
+            <lm:addressInfo>
+                <lm:country>Turkey</lm:country>
+            </lm:addressInfo>
+        </lm:landmark>
+        <lm:landmark>
+            <lm:name>Mausoleum of Maussollos at Halicarnassus</lm:name>
+            <lm:description>The Mausoleum at Halicarnassus was a tomb built between 353 and 350 BCE at Halicarnassus (present Bodrum, Turkey) for Mausolus, a satrap in the Persian Empire, and Artemisia II of Caria, his wife and sister. The structure was designed by the Greek architects Satyros and Pythius of Priene. The Mausoleum stood approximately 45 m in height, and each of the four sides was adorned with sculptural reliefs created by each one of four Greek sculptors — Leochares, Bryaxis, Scopas of Paros and Timotheus.</lm:description>
+            <lm:coordinates>
+                <lm:latitude>37.037944</lm:latitude>
+                <lm:longitude>27.424056</lm:longitude>
+            </lm:coordinates>
+            <lm:addressInfo>
+                <lm:country>Turkey</lm:country>
+            </lm:addressInfo>
+        </lm:landmark>
+        <lm:landmark>
+            <lm:name>Colossus of Rhodes</lm:name>
+            <lm:description>The Colossus of Rhodes was a statue of the Greek Titan Helios, erected in the city of Rhodes on the Greek island of Rhodes by Chares of Lindos between 292 and 280 BC. Before its destruction, the Colossus of Rhodes stood over 30 meters high, making it one of the tallest statues of the ancient world.</lm:description>
+            <lm:coordinates>
+                <lm:latitude>36.433333</lm:latitude>
+                <lm:longitude>28.216667</lm:longitude>
+            </lm:coordinates>
+            <lm:addressInfo>
+                <lm:country>Greece</lm:country>
+            </lm:addressInfo>
+        </lm:landmark>
+        <lm:landmark>
+            <lm:name>Lighthouse of Alexandria</lm:name>
+            <lm:description>The Lighthouse of Alexandria was a tower built between 280 and 247 BC on the island of Pharos at Alexandria, Egypt. Its purpose was to guide sailors into the harbour at night time. With a height variously estimated at somewhere in-between 393 and 450 ft, it was for many centuries among the tallest man made structures on Earth.</lm:description>
+            <lm:coordinates>
+                <lm:latitude>31.213931</lm:latitude>
+                <lm:longitude>29.885661</lm:longitude>
+            </lm:coordinates>
+            <lm:addressInfo>
+                <lm:country>Egypt</lm:country>
+            </lm:addressInfo>
+        </lm:landmark>
+    </lm:landmarkCollection>
+</lm:lmx>
