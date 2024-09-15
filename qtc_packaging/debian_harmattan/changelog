@@ -1,0 +1,10 @@
+harmattanapishowcase (1.0.0) unstable; urgency=low
+  * Version with Internet Radio and AccelerometerTaps sensor examples.
+
+ -- Suman Kumar Madamsetty <ext-suman.madamsetty@nokia.com>  Thu, 12 Apr 2012 20:00:00 +0200
+
+harmattanapishowcase (0.1.0) unstable; urgency=low
+  * Initial Release.
+
+ -- Suman Kumar Madamsetty <ext-suman.madamsetty@nokia.com>  Fri, 07 Mar 2012 17:00:00 +0200
+
